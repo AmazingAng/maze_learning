@@ -1,6 +1,12 @@
 # exploration_maze
 Hippocampal coding of maze exploration
-Download behavCam1.avi in MiaoLab Server under folder H:\miniscope recording\maze\4_21_2020\10031H17_M15_S0 , and add to main folder to run the code.
+
+# How to run the code?
+
+1. Download behavCam1.avi in MiaoLab Server under folder H:\miniscope recording\maze\4_21_2020\10031H17_M15_S0 , and add to main folder to run the code.
+2. Run cv_maze_raw_M10031_new.ipynb to process behavior data.
+3. Run ms_decoding.ipynb to process calcium data.
+4. Run ms_analysis.ipynb to decode behavior data from calcium data.
 
 # Data:
 ## Behavior results:
