@@ -1,5 +1,6 @@
 # exploration_maze
 Hippocampal coding of maze exploration
+Download behavCam1.avi in MiaoLab Server under folder H:\miniscope recording\maze\4_21_2020\10031H17_M15_S0 , and add to main folder to run the code.
 
 # Data:
 ## Behavior results:
