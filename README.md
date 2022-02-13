@@ -1,4 +1,4 @@
-# exploration_maze
+# Exploration Maze
 Hippocampal coding of maze exploration
 
 # How to run the code?
